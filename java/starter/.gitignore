@@ -1,0 +1,44 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Compiled Files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages and Dependencies
+node_modules/
+vendor/
+*.jar
+*.war
+*.ear
+
+# Logs and Databases
+*.log
+*.sql
+*.sqlite
+
+# Build Directories
+build/
+dist/
+out/
+
+# Environment and Configuration Files
+.env
+config.json
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
