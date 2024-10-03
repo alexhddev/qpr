@@ -1,0 +1,60 @@
+{
+    "ingredients": [
+        {
+            "name": "Flour",
+            "quantity": {
+                "value": 1.5,
+                "unit": "cup"
+            }
+        },
+        {
+            "name": "Yeast",
+            "quantity": {
+                "value": 1,
+                "unit": "teaspoon"
+            }
+        },
+        {
+            "name": "Warm Water",
+            "quantity": {
+                "value": 0.75,
+                "unit": "cup"
+            }
+        },
+        {
+            "name": "Olive Oil",
+            "quantity": {
+                "value": 1,
+                "unit": "tablespoon"
+            }
+        },
+        {
+            "name": "Salt",
+            "quantity": {
+                "value": 0.5,
+                "unit": "teaspoon"
+            }
+        },
+        {
+            "name": "Tomato Sauce",
+            "quantity": {
+                "value": 0.5,
+                "unit": "cup"
+            }
+        },
+        {
+            "name": "Mozzarella Cheese",
+            "quantity": {
+                "value": 1.5,
+                "unit": "cup"
+            }
+        },
+        {
+            "name": "Basil Leaves",
+            "quantity": {
+                "value": 6,
+                "unit": "leaves"
+            }
+        }
+    ]
+}
